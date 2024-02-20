@@ -3,15 +3,15 @@
 
 // Create the front page
 #show: project.with(
-  title: "Tittel",
-  author: "Nordmann, Ola",
+  title: "Hvordan lage svart te?",
+  author: "Helle Augland Grasmo",
   course: "IELET2112",
-  groupName: "My Group",
-  groupNumber: 10,
+  groupName: "Not applicable",
+  groupNumber: 0,
   bilag: 0,
-  teacher: " ",
+  teacher: "Dominik Osinksi",
   semester: "vår 2024",
-  pageBreakBetweenHeadings: false
+  pageBreakBetweenHeadings: true
 )
 
 // Include and display all the subpages
