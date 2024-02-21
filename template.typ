@@ -153,7 +153,7 @@
   pagebreak()
   // Show page numbers starting at page 2 and show custom page 2 heading
   set page(
-    numbering: "1",
+    numbering: "1 | 1",
     header: [
       // NTNU logo
       #align(right)[

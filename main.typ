@@ -14,6 +14,9 @@
   pageBreakBetweenHeadings: true
 )
 
+#set math.equation(numbering: "(1)")
+#set ref(supplement: none)
+
 // Include and display all the subpages
 #include "Sections/01_Introduction.typ"
 #include "Sections/02_Theory.typ"
