@@ -67,11 +67,11 @@ Etter å lakkere ble det målt $20.35degree$.
   [01:50], [$23.58degree$], [22$degree$], [77$degree$],[],[],
   [01:57], [$22.67degree$], [20$degree$], [--],[],[],
   [02:05], [--], [18$degree$], [76$degree$],[],[],
-  [02:20], [etter to min$22.07degree$], [17.8$degree$], [76$degree$],[],[],
+  [02:20], [], [17.8$degree$], [76$degree$],[],[],
   [02:36], [--], [17.8$degree$], [75$degree$],[],[],
   [02:45], [--], [17.1$degree$], [63$degree$-tatt ut],[],[],
   [02:55], [--], [--], [35$degree$],[],[],
-  [03:07], [--], [16.9$degree$], [22$degree$],[],[],
+  [03:07], [etter to min$22.07degree$], [16.9$degree$], [22$degree$],[],[],
   [03:20], [--], [16.05$degree$], [20$degree$],[],[],
   [03:30], [--], [--], [18$degree$],[],[],
   [03:40], [--], [--], [17.9$degree$],[],[],
@@ -87,4 +87,23 @@ Etter å lakkere ble det målt $20.35degree$.
 == Drøfting
 === Teste isolering
 Med neglelakk var den mest korrekte målingen. Vannet som ble målt hadde ligget i rommtemperatur i en lang stund. Det virker derfor ikke realistisk at vannet skal måle 30$degree$ når det har vaert i rommtemperatur. Beinene er også veldig nermehverandre, noe som gjør at det er mindre for elektronene å hoppe. 
-Vannet var itillegg ikke helt rent, siden
+Vannet var itillegg ikke helt rent, siden det var fra en vannflaske som har vaert med meg på trening et par ganger. 
+
+
+=== Lage te
+ser at vannet som blir helt i teen ikke er 100 grader.
+tar ca 1 min for vannet å gå til 75 grader. 
+
+
+Det tar for thermstorern etter den er tatt ut like lang tid. 
+men temperaturen holder seg bedre i mummikoppen enn i de andre beholderene.
+skålen har en stor overflate og er laget av papp. noe som gjør at det er lett for vannet å fordampe fra den enn noen av de andre. 
+
+trodde den runde koppen skulle holde bedre på varmen enn det den gjorde. Den er rund og er sånn at den har et lite hull på toppen, som skal i teorien holde mer på varmen. 
+itilleg hadde den tykkke kjeramikkvegger
+Kan vaere at man burde gjøre flere forsøk her. 
+
+Men munnikoppen holdt nesten 3 minutter på varmen. den har tynne vegger og trodde ikke den skulle holde så bra. 
+
+
+for thermistoren til å måle rommtemperaturen så tar det ett minutt for de alle. 
