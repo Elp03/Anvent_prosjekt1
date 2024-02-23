@@ -15,7 +15,10 @@ Thermistoren blir på senere tidspunkt koblet på lange lednigner sånn at det s
 
 MyDAQ-en blir koblet til en pc med instalerte LabVIEW programmer. 
 
-== MyDAQ ((Denne i theori??))
+== MyDAQ ((Denne i theori??)) <MyDAQ>
+Utvilket av og sånnt:::::
+
+
 En MyDAQ er et verktøy utviklet hovedsaklig med tanke på studenter. Den er for å hjelpe studenter med ingeniørproblemer og laere hvordan man skal løse probmlemer. 
 
 Den har mulighet til å vaere et Osiloscop, et multimeter, en mikrokontroller lingnenge gjenstand. 

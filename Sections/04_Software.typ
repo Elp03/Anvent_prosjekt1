@@ -10,7 +10,9 @@ For å programere MyDAQ-en, bruker man en programvare med navn LabVIEW. Det ende
 Hovedsaklig består koden av ulike variabler, en blokk som sender og tar i mot signaler fra MyDAQ-en ----
 
 == LabVIEW <LabVIEW>
-
+LabVIEW er en programmvare levert av ----. Med denne kan man programere en MyDAQ, @MyDAQ. 
+Programmet består av en side der man lagrer tall kan endre på konstanter, imens den andre siden består av blokker man kan koble sammen, lage if-settninger, while-loops eller lignende. 
+Prosjektet er bestående av 
 
 == Steinartharts-Hart kodeblokk
 I LabVIEW er det mulighet for å sammle mange kodeblokker i en blokk. 
