@@ -43,8 +43,10 @@ Ta målinger i to minutter etter at thermistoren er ute fra koppen.
 == Resultater
 
 === Teste isolering
-Det ble målt ((((())))) uten neglelakk.
-Etter å lakkere ble det målt (((())))
+Det ble målt $28.99degree$ uten neglelakk.
+Etter å lakkere ble det målt $20.35degree$. 
+
+///BiLDER
 
 === Målinger
 
@@ -52,21 +54,37 @@ Etter å lakkere ble det målt (((())))
   columns: (auto, auto, auto, auto, auto, auto),
   inset: 10pt,
   [Tid], [Skål],[Rund kjeramikk kopp], [Mummi kopp], [Test-digitalt],[Test-rund],
-  [-0], [], [], [], [],[],
-  [], [], [], [],[],[],
-  [], [], [], [],[],[],
-  [], [], [], [],[],[],
-  [], [], [], [],[],[],
-  [], [], [], [],[],[],
-  [], [], [], [],[],[],
-  [], [], [], [],[],[],
-  [], [], [], [],[],[],
-  [], [], [], [],[],[],
-  [], [], [], [],[],[],
-  [], [], [], [],[],[],
-  [], [], [], [],[],[],
-  [], [], [], [],[],[],
-  
+  [-00:00], [$24.8degree$], [16.6$degree$], [16.8$degree$], [],[],
+  [00:00], [$88.04degree$], [89$degree$], [88$degree$],[],[],
+  [00:10], [$81.31degree$], [88$degree$], [89$degree$],[],[],
+  [00:30], [$77.12degree$], [77$degree$], [87$degree$],[],[],
+  [00:40], [$74.89degree$], [78$degree$], [85$degree$],[],[],
+  [00:50], [$71.70degree$], [75$degree$], [83$degree$],[],[],
+  [01:10], [tatt ut $50.83degree$], [77$degree$-tatt ut], [81$degree$],[],[],
+  [01:30], [$37degree$], [52$degree$], [79$degree$],[],[],
+  [01:35], [$27.01degree$], [35$degree$], [--],[],[],
+  [01:40], [$24.956degree$], [27$degree$], [78$degree$],[],[],
+  [01:50], [$23.58degree$], [22$degree$], [77$degree$],[],[],
+  [01:57], [$22.67degree$], [20$degree$], [--],[],[],
+  [02:05], [--], [18$degree$], [76$degree$],[],[],
+  [02:20], [etter to min$22.07degree$], [17.8$degree$], [76$degree$],[],[],
+  [02:36], [--], [17.8$degree$], [75$degree$],[],[],
+  [02:45], [--], [17.1$degree$], [63$degree$-tatt ut],[],[],
+  [02:55], [--], [--], [35$degree$],[],[],
+  [03:07], [--], [16.9$degree$], [22$degree$],[],[],
+  [03:20], [--], [16.05$degree$], [20$degree$],[],[],
+  [03:30], [--], [--], [18$degree$],[],[],
+  [03:40], [--], [--], [17.9$degree$],[],[],
+  [03:50], [--], [--], [17.6$degree$],[],[],
+  [04:00], [--], [--], [17.3$degree$], [],[],
+  [04:10], [--], [--], [17.26$degree$], [],[],
+  [04:20], [--], [--], [17.09$degree$], [],[],
+  [04:30], [--], [--], [17.03$degree$], [], [],
+  [04:40], [--], [--], [16.9$degree$], [],[],
+
 )
 
 == Drøfting
+=== Teste isolering
+Med neglelakk var den mest korrekte målingen. Vannet som ble målt hadde ligget i rommtemperatur i en lang stund. Det virker derfor ikke realistisk at vannet skal måle 30$degree$ når det har vaert i rommtemperatur. Beinene er også veldig nermehverandre, noe som gjør at det er mindre for elektronene å hoppe. 
+Vannet var itillegg ikke helt rent, siden
