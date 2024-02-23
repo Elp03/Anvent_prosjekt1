@@ -24,8 +24,6 @@ ved å putte to metallpinner i et vann og fører strømm igjennom dem. vil man s
 Når man putter hele thermistoren i vannet så vil beina vaere nede i vannet. 
 For å teste ut denne teoreien gjeller dette prosjektet, ble det utført en test. En thermistor ble senket ned i vannet før og etter den ble lakkert med neglelakk. Eksperiment ble utført med samme vann i samme beholder noen minutter ettherverandre. 
 
-Det ble målt ((((())))) uten neglelakk.
-Etter å lakkere ble det målt (((())))
 === Lage te
 
 Dette Eksperiment ble utført på to forskellige steder, med tre forskellige beholdere. 
@@ -45,7 +43,8 @@ Ta målinger i to minutter etter at thermistoren er ute fra koppen.
 == Resultater
 
 === Teste isolering
-
+Det ble målt ((((())))) uten neglelakk.
+Etter å lakkere ble det målt (((())))
 
 === Målinger
 
