@@ -13,9 +13,10 @@
   semester: "vår 2024",
   pageBreakBetweenHeadings: true
 )
-
+#set heading(numbering: "1.")
 #set math.equation(numbering: "(1)")
 #set ref(supplement: none)
+
 
 // Include and display all the subpages
 #include "Sections/01_Introduction.typ"

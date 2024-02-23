@@ -7,12 +7,15 @@ I programmet er det brukt mange ulike ((((blokker???))))
 
 For å programere MyDAQ-en, bruker man en programvare med navn LabVIEW. Det endelige programmet er bestående av mange forskellige blokker. 
 
-Hovedsaklig består koden av ulike variabler, en blokk som sender og tar i mot signaler fra MyDAQ-en 
+Hovedsaklig består koden av ulike variabler, en blokk som sender og tar i mot signaler fra MyDAQ-en ----
+
+== LabVIEW <LabVIEW>
 
 
-== Hoved koden
-Bruker mydaq for å ta inn info fra mydaquen så vil informasjonen bli dendt videre o brukt til å regne ut formel for å så kunne 
+== Steinartharts-Hart kodeblokk
+I LabVIEW er det mulighet for å sammle mange kodeblokker i en blokk. 
+Ved bruk av denne metoden samlet jeg hele Steinartharts-Harts formelen i en blokk som tokk inn noen variabler og returnerte en temperatur verdi. 
 
-
-=== Steinhart-Hart 
-For å gjøre hovedkoden mer leslig, så er Steinhart-Hart formelen laget i en egen boks. som tar inn $R_"thermistor"$ og r_1 ofr å så returnere temperaturen i grader.
+== Hovedkoden
+MyDAQ-en tar å måler over komponentene, og sender de inn i programmet. Programmet vil splitte de to signalene for å utgjøre utregninger for å finne hva resistansen, $R_"thermistor"$.
+$R_"thermistor"$ vil så bli puttet inn i Steinartharts-Harts kodeblokken. Den vil returnere den utregnede temperaturen i grader. 
