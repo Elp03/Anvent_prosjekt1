@@ -1,7 +1,5 @@
 = Konklusjon
+Det som merkers er at vannet fra vannkokeren ikke er $100degree$ når den skal vaere nykokt. Når man lager svart te så skal det vaere $100degree$. Det som kan testes er om det er for kjapp nedkjøling, thermistoren ikke går til $100degree$ før den blir for kald eller om vannkokeren ikke koker opp vannet til $100degree$. 
+Videre forskning så kan man sjekke mer om sensoren burde vaere lengre nede i vannet eller ikke. Om posisjonen til sensoren har noe å si i vannet. 
 
-Konklusjon
-
-man burde pre varme thermistoren. den bruker litt tild til å komme ned i temeperatur. ca 1 min fra 75 grader til rommtemperatur. 
-
-Itilleg kan vi se at det ikke er 100 grader når man fyller på vannet. dette gjør at når man skal lage svart te som trenger 100 grader så er det ikke det det blir provided. 
+For ikke veldig nøyaktige målinger, så fungerer denne type sensor bra. Hvis man trenger noe mer presist, hadde det vaert å konfigurere sensoren bedre, ved å måle i de ulike temperaturene. 

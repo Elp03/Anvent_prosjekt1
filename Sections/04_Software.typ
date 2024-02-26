@@ -1,8 +1,5 @@
 = Programvare
 
-short description of my program and its feautures. 
-
-
 For å programere MyDAQ-en -- Kapittel @MyDAQ --, bruker man en programvare med navn LabVIEW. 
 Programmet er programert med mange ulike blokker. En blokk kan vaere en konstant, en while-løkke, tidsforsinkelse, en sammensettning av blokker, bolske variabler eller mer. 
 

@@ -1,12 +1,5 @@
 = Eksperimenter og resultater
 
-descriptions, resutater, 
-
-
-
-
-DEN PERFEKTE TEEN ER VED 100 GRADER, DET ER IKKE DENNE!!!!  DEN ER IKKE 100 GRADER NÅR DEN BLIR HELT OVER. 
-
 == Eksperiment
 Eksperimentet ble gjennomført med tre forskjellige beholdere. 
 De tre beholderene er en papp skål, en rund keramisk kopp, og en rund mummi kopp. 
